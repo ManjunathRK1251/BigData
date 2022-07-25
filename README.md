@@ -8,7 +8,7 @@
 <br>
 
 ## Hotstar Recommendation System <br>
-<img src = "https://github.com/ManjunathRK1251/BigData/blob/master/screenshots/hotstar_homescreen.PNG" width = 240 height = 450> <img src = "https://github.com/ManjunathRK1251/BigData/blob/master/screenshots/hotstar_prediction.PNG" width = 240 height = 450> 
+<img src = "https://github.com/ManjunathRK1251/BigData/blob/master/screenshots/hotstar_homescreen.PNG" width = 240 height = 450><img src = "https://github.com/ManjunathRK1251/BigData/blob/master/screenshots/hotstar_prediction.PNG" width = 240 height = 450> 
 
 ## Netflix Recommendation System <br>
 <img src = "https://github.com/ManjunathRK1251/BigData/blob/master/screenshots/netflix_homescreen.PNG" width = 240 height = 450><img src = "https://github.com/ManjunathRK1251/BigData/blob/master/screenshots/netflix_prediction.PNG" width = 240 height = 450>
